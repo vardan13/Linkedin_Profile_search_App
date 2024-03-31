@@ -6,7 +6,6 @@ Here's how it works:
 
 Setup:
 
-   ```
 1. Create a virtual environment using:
    ```
    pipenv shell
